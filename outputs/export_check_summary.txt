@@ -1,0 +1,12 @@
+﻿Export check summary
+Generated: 2026-06-16 17:09:50
+Database: electronics_retailer
+
+sales_reporting_view.csv | Skipped existing non-empty file | 19050.48 KB | 62884 rows
+final_kpi_summary.csv | Exported with data | 0.2 KB | 49 rows
+monthly_sales_report.csv | Skipped existing non-empty file | 5.58 KB | 62 rows
+product_performance_report.csv | Skipped existing non-empty file | 362.88 KB | 2492 rows
+country_sales_report.csv | Exported with data | 0.74 KB | 56 rows
+store_performance_report.csv | Skipped existing non-empty file | 6.46 KB | 58 rows
+category_performance_report.csv | Skipped existing non-empty file | 2.85 KB | 32 rows
+customer_summary_report.csv | Skipped existing non-empty file | 1517.74 KB | 11887 rows
